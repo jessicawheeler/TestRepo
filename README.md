@@ -3,14 +3,19 @@ This TestRepo contains the bar graph of my Data Science Profile.
 
 Jessica Wheeler Data Science Profile:
 
-                        skills rating
-1          ComputerProgramming      1
-2                         Math      5
-3                   Statistics      4
-4              MachineLearning      1
-5              DomainExpertise      3
-6 CommunicationAndPresentation      4
-7            DataVisualization      2
+(1)         ComputerProgramming      1
+
+(2)                         Math      5
+
+(3)                   Statistics      4
+
+(4)              MachineLearning      1
+
+(5)              DomainExpertise      3
+
+(6) CommunicationAndPresentation      4
+
+(7)            DataVisualization      2
 
 
 > sessionInfo()
